@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chopp Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset_counter">Reset Counter</string>
+</resources>
