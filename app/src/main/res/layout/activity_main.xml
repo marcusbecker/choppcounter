@@ -26,9 +26,9 @@
         android:layout_height="245dp"
         android:layout_marginTop="55dp"
         android:paddingTop="8dp"
+        android:text="100"
         android:textAlignment="center"
-        android:textSize="170sp"
-        android:text="7" />
+        android:textSize="180sp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
